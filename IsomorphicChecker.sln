@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicChecker", "IsomorphicChecker\IsomorphicChecker.csproj", "{12705A3B-27B2-4A9A-A4D4-CA4B8662C750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicCheckerTests", "IsomorphicCheckerTests\IsomorphicCheckerTests.csproj", "{679A5F95-BA59-420E-ACE4-DC4761CC9B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12705A3B-27B2-4A9A-A4D4-CA4B8662C750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12705A3B-27B2-4A9A-A4D4-CA4B8662C750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12705A3B-27B2-4A9A-A4D4-CA4B8662C750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12705A3B-27B2-4A9A-A4D4-CA4B8662C750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679A5F95-BA59-420E-ACE4-DC4761CC9B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679A5F95-BA59-420E-ACE4-DC4761CC9B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679A5F95-BA59-420E-ACE4-DC4761CC9B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679A5F95-BA59-420E-ACE4-DC4761CC9B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C6A992-72FB-4C6C-AD75-AC8B307A32F0}
+	EndGlobalSection
+EndGlobal
